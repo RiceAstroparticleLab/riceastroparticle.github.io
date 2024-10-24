@@ -1,4 +1,4 @@
-# Rice University Astroparticle Physics Group
+# Rice University's Astroparticle Physics Group
 
 Welcome to the **Computational Astroparticle Group** at Rice University! We are part of the Department of Physics and Astronomy and are dedicated to exploring the mysteries of the universe through neutrinos and dark matter research.
 
