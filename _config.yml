@@ -1,4 +1,6 @@
-title: Rice Astroparticle Lab
+title: Rice University Astroparticle  Group
 description: >
-  The Rice University Astroparticle Lab
-theme: minima
+  The Rice University Astroparticle Physics Group conducts cutting-edge research on astroparticles, cosmic rays, and dark matter. 
+theme: jekyll-theme-cayman
+url: "https://riceastroparticlelab.github.io"
+author: Rice University Astroparticle Group
