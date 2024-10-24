@@ -1,12 +1,22 @@
-# Welcome to My Website
+# Rice University Astroparticle Physics Group
 
-This is a simple website written in **Markdown** and rendered by GitHub Pages with the help of **Jekyll**.
+Welcome to the **Computational Astroparticle Group** at Rice University! We are part of the Department of Physics and Astronomy and are dedicated to exploring the mysteries of the universe through neutrinos and dark matter research.
 
-## About Me
+Our research focuses on:
+- Understanding neutrinos
+- Investigating the nature of dark matter
 
-I love creating websites with minimal effort!
+## Latest News
+- **October 2024**: New paper
 
-- Item 1
-- Item 2
-- Item 3
+## Research Areas
+We specialize in the following areas:
+- **Dark Matter Experiments**: Uncovering the mysteries of dark matter.
 
+## Team Members
+- **Dr. Jane Doe**: Principal Investigator
+- **Jane Smith**: Graduate Student, XENON
+
+## Contact Us
+- **Location**: Department of Physics and Astronomy, Rice University, Houston, TX
+- **Email**: astroparticle@rice.edu
